@@ -18,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/40426
     wikipedia: http://en.wikipedia.org/wiki/John_William_Dawson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33049#The-Origin-of-the-World-According-to-Revelation-and-Science
 gutenberg_issued: '2010-07-02'
 gutenberg_type: Text
 identifiers:
